@@ -34,6 +34,10 @@ body {
   line-height: 36px;
 }
 
+.sm-text {
+  font-size: 16px;
+  line-height: 24px;
+}
 .x-sm-text {
     font-size: 14px;
     line-height: 20px;
@@ -41,4 +45,23 @@ body {
 
 .mg-bottom-8 {
     margin-bottom: 8px;
+}
+
+.mg-bottom-48 {
+    margin-bottom: 48px;
+}
+
+.hackreactor {
+  width: 20%;
+  height: auto;
+}
+
+.washington {
+  width: 20%;
+  height: auto;
+}
+
+.lolboost {
+  width: 20%;
+  height: auto;
 }
