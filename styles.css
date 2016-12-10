@@ -1,0 +1,44 @@
+body {
+  /*background-image: url('https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAdmAAAAJDc4MWQ1MTE2LTNkMWUtNDlmNC1hNzU4LWY0NDlkNWE1NThkOA.jpg');
+  background-repeat: no-repeat;*/
+  font-family: 'Open Sans';
+}
+
+.jumbo-text {
+  font-size: 38px;
+}
+
+.bold {
+  font-weight: 400;
+}
+
+.light {
+  font-weight: 100;
+}
+
+.black {
+  color: #333333;
+}
+
+.dark-gray {
+  color: #666666;
+}
+
+.calvin {
+  margin-top: 100px;
+  /*margin-left: 10px;*/
+}
+
+.lg-text {
+  font-size: 28px;
+  line-height: 36px;
+}
+
+.x-sm-text {
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.mg-bottom-8 {
+    margin-bottom: 8px;
+}
