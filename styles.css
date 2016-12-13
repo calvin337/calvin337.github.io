@@ -47,10 +47,19 @@ body {
     margin-bottom: 8px;
 }
 
+.mg-bottom-16 {
+    margin-bottom: 20px;
+}
+.mg-bottom-32 {
+    margin-bottom: 32px;
+}
 .mg-bottom-48 {
     margin-bottom: 48px;
 }
 
+.mg-top-48 {
+    margin-top: 48px;
+}
 .hackreactor {
   width: 20%;
   height: auto;
