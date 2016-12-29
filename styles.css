@@ -93,3 +93,8 @@ body {
 .title {
   font-family: "Open Sans";
 }
+
+.pull-right {
+  float: right!important;
+
+}
